@@ -47,3 +47,11 @@ class Program
         }
     }
 }
+
+
+// EXCEEDING REQUIREMENTS:
+// 1. Enhanced the HideRandomWords method to only select from words that are not already hidden
+// 2. Added punctuation handling - the program preserves punctuation when hiding words
+// 3. Added a completion message when all words are hidden
+// 4. Added error handling to ensure we don't try to hide more words than are available
+// 5. Improved user experience with clear instructions and feedback
